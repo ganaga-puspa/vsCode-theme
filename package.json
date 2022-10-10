@@ -1,6 +1,6 @@
 {
-  "name": "ganagapuspa-theme",
-  "displayName": "GanagaPuspa-theme",
+  "name": "ganagapuspa-theme1",
+  "displayName": "GanagaPuspa-theme1",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "GanagaPuspa-theme",
+        "label": "GanagaPuspa-theme1",
         "uiTheme": "vs-dark",
-        "path": "./themes/GanagaPuspa-theme-color-theme.json"
+        "path": "./themes/GanagaPuspa-theme-color-theme1.json"
       }
     ]
   }

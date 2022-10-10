@@ -1,5 +1,5 @@
 {
-  "name": "GanagaPuspa-theme",
+  "name": "GanagaPuspa-theme1",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1873,6 +1873,7 @@
     "panelTitle.inactiveForeground": "#e7e7e799",
     "badge.background": "#4d4d4d",
     "badge.foreground": "#fff8f8",
+    "terminal.background": "#1E0528",
     "terminal.foreground": "#cccccc",
     "terminal.selectionBackground": "#ffffff40",
     "terminalCursor.background": "#0087FF",
